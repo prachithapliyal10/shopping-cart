@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+       "id": "1",
+        "title": "acoustic electric guitar",
+        "price": 10.99,
+        "url": "./images/acoustic-electric-guitar.jpg"
+      
+    },
+    {
+        "id": "2" ,
+        "title": "bass guitar",
+        "price": 12.99,
+        "url": "./images/bass-guitar.jpg"
+      
+    },
+    {
+        "id": "3",
+        "title": "acoustic guitar",
+        "price": 12.99,
+         "url": "./images/acoustic-guitar.jpg" 
+      
+    },
+    {
+        "id": "4",
+        "title": "electric guitar",
+        "price": 22.99,
+        "url": "./images/electric-guitar.jpg" 
+      
+    },
+    {
+        "id": "5",
+        "title": "guitarlele",
+        "price": 88.99,
+        "url": "./images/guitarlele.jpg"
+      
+    },
+    {
+        "id": "6",
+        "title": "semi acoustic guitar",
+        "price": 32.99,
+        "url": "./images/semi-acoustic-guitar.jpg"
+      
+    },
+    {
+        "id": "7",
+        "title": "ukelele",
+        "price": 45.99,
+        "url": "./images/ukelele-guitare.png" 
+      
+    },
+    {
+        "id": "8",
+        "title": "ukelele",
+        "price": 33.99,
+        "url": "./images/ukelele.png" 
+      
+    }
+  ]
+}
